@@ -2,7 +2,7 @@
   <strong>Bem Vindos ao meu GitHub!👋 Welcome to my GitHub! 👋 Bienvenidos a mi GitHub 👋</strong>
 </p>
 <p align="center">
-  <img src="https://github.com/henriquerojo/henriquerojo/blob/main/tony.gif">
+  <img src="https://github.com/henriquerojo/henriquerojo/blob/main/tony.gif" style="z-index=-1;">
 </p>
 
 <!-- ![](https://github.com/henriquerojo/henriquerojo/blob/main/tony.gif) -->
