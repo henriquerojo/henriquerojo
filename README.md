@@ -3,7 +3,7 @@
 ![](https://github.com/henriquerojo/henriquerojo/blob/main/tony.gif)
 
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
 <a href="https://github.com/henriquerojo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquerojo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquerojo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
