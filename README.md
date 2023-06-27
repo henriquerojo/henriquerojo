@@ -1,8 +1,7 @@
 ### Bem Vindos ao meu GitHub!👋 Welcome to my GitHub! 👋 Bienvenidos a mi GitHub 👋
 
-<div align="center">
+
 ![](https://github.com/henriquerojo/henriquerojo/blob/main/tony.gif)
-</div>
 
 <div align="center">
 <a href="https://github.com/henriquerojo">
